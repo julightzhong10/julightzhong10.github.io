@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://julightzhong10.github.io/project/nlp_offensivelang/</loc>
+      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/publication/my-publication/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/publication/my-publication/" hreflang="zh"/>
     
@@ -160,7 +166,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/</loc>
-      <lastmod>2019-05-26T17:37:16-07:00</lastmod>
+      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -170,7 +176,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/tags/ml/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/tags/ml/</loc>
-      <lastmod>2019-04-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -198,7 +204,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/project/</loc>
-      <lastmod>2019-04-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -245,7 +251,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/tags/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/tags/</loc>
-      <lastmod>2019-04-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
