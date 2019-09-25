@@ -30,26 +30,17 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/kaggle_houseprice/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/kaggle_houseprice/" hreflang="en"/>
-    
       <loc>https://julightzhong10.github.io/zh/project/kaggle_houseprice/</loc>
       <lastmod>2019-03-22T16:09:14-07:00</lastmod>
     </url>
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/kaggle_mnist/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/kaggle_mnist/" hreflang="en"/>
-    
       <loc>https://julightzhong10.github.io/zh/project/kaggle_mnist/</loc>
       <lastmod>2019-03-22T16:06:23-07:00</lastmod>
     </url>
   
     <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/kaggle_titanic/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/kaggle_titanic/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/project/kaggle_titanic/</loc>
       <lastmod>2019-03-22T16:03:03-07:00</lastmod>
@@ -65,9 +56,6 @@
     </url>
   
     <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/tower_of_the_sorcerer/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/tower_of_the_sorcerer/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/project/tower_of_the_sorcerer/</loc>
       <lastmod>2019-03-22T15:55:48-07:00</lastmod>
@@ -159,9 +147,6 @@
     </url>
   
     <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/tags/other/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/tags/other/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/tags/other/</loc>
       <lastmod>2019-03-22T15:55:48-07:00</lastmod>

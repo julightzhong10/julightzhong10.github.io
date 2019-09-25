@@ -42,47 +42,11 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/kaggle_houseprice/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/kaggle_houseprice/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/project/kaggle_houseprice/</loc>
-      <lastmod>2019-03-22T16:09:14-07:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/kaggle_mnist/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/kaggle_mnist/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/project/kaggle_mnist/</loc>
-      <lastmod>2019-03-22T16:06:23-07:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/kaggle_titanic/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/kaggle_titanic/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/project/kaggle_titanic/</loc>
-      <lastmod>2019-03-22T16:03:03-07:00</lastmod>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/porker_hand/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/porker_hand/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/project/porker_hand/</loc>
       <lastmod>2019-03-22T16:00:57-07:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/tower_of_the_sorcerer/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/tower_of_the_sorcerer/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/project/tower_of_the_sorcerer/</loc>
-      <lastmod>2019-03-22T15:55:48-07:00</lastmod>
     </url>
   
     <url>
@@ -177,16 +141,6 @@
     
       <loc>https://julightzhong10.github.io/tags/ml/</loc>
       <lastmod>2019-06-01T16:19:46-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/tags/other/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/tags/other/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/tags/other/</loc>
-      <lastmod>2019-03-22T15:55:48-07:00</lastmod>
       <priority>0</priority>
     </url>
   
