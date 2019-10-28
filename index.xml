@@ -7,33 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 16:19:46 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 16:19:46 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Identifying Offensive Language in Social Media</title>
       <link>https://julightzhong10.github.io/project/nlp_offensivelang/</link>
-      <pubDate>Sat, 01 Jun 2019 16:19:46 -0700</pubDate>
+      <pubDate>Sat, 15 Jun 2019 16:19:46 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/project/nlp_offensivelang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fashion Popularity Analysis based on Online Social Network via Deep Learning	</title>
+      <title>Fashion Popularity Analysis based on Online Social Network via Deep Learning</title>
       <link>https://julightzhong10.github.io/publication/icdip2019_zhong2019fashion/</link>
       <pubDate>Sun, 26 May 2019 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/publication/icdip2019_zhong2019fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Augmentation by using GAN</title>
-      <link>https://julightzhong10.github.io/project/gan_da/</link>
-      <pubDate>Mon, 01 Apr 2019 16:19:46 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/project/gan_da/</guid>
       <description></description>
     </item>
     
@@ -47,20 +38,29 @@
     </item>
     
     <item>
-      <title>Probalistic Database System</title>
-      <link>https://julightzhong10.github.io/project/probalistic_database/</link>
-      <pubDate>Fri, 22 Mar 2019 16:12:40 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/project/probalistic_database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Porker Hand Classification</title>
       <link>https://julightzhong10.github.io/project/porker_hand/</link>
       <pubDate>Fri, 22 Mar 2019 16:00:57 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/project/porker_hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation by using GAN</title>
+      <link>https://julightzhong10.github.io/project/gan_da/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/project/gan_da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probalistic Database System</title>
+      <link>https://julightzhong10.github.io/project/probalistic_database/</link>
+      <pubDate>Sat, 01 Dec 2018 16:12:40 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/project/probalistic_database/</guid>
       <description></description>
     </item>
     

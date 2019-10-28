@@ -4,19 +4,13 @@
     <url>
     
       <loc>https://julightzhong10.github.io/project/nlp_offensivelang/</loc>
-      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://julightzhong10.github.io/publication/icdip2019_zhong2019fashion/</loc>
       <lastmod>2019-05-26T17:37:16-07:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://julightzhong10.github.io/project/gan_da/</loc>
-      <lastmod>2019-04-01T16:19:46-07:00</lastmod>
     </url>
   
     <url>
@@ -30,20 +24,26 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/probalistic_database/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/probalistic_database/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/project/probalistic_database/</loc>
-      <lastmod>2019-03-22T16:12:40-07:00</lastmod>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/porker_hand/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/porker_hand/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/project/porker_hand/</loc>
       <lastmod>2019-03-22T16:00:57-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/project/gan_da/</loc>
+      <lastmod>2019-03-15T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/probalistic_database/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/probalistic_database/" hreflang="zh"/>
+    
+      <loc>https://julightzhong10.github.io/project/probalistic_database/</loc>
+      <lastmod>2018-12-01T16:12:40-07:00</lastmod>
     </url>
   
     <url>
@@ -56,10 +56,21 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/publication_types/1/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/publication_types/1/" hreflang="zh"/>
+      <loc>https://julightzhong10.github.io/publication_types/0/</loc>
+      <lastmod>2019-05-26T17:37:16-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
     
-      <loc>https://julightzhong10.github.io/publication_types/1/</loc>
+      <loc>https://julightzhong10.github.io/authors/bjiachen-zhong/b/</loc>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/bjiachen-zhong/b/</loc>
       <lastmod>2019-05-26T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -79,6 +90,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/authors/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/authors/</loc>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -88,6 +100,20 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/categories/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/chengyao-zhang/</loc>
+      <lastmod>2019-03-22T16:19:46-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/enbang-zhang/</loc>
+      <lastmod>2019-03-22T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -113,21 +139,11 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/authors/jiachen-zhong/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/authors/jiachen-zhong/" hreflang="zh"/>
-    
-      <loc>https://julightzhong10.github.io/authors/jiachen-zhong/</loc>
-      <lastmod>2019-05-26T17:37:16-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/</loc>
-      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -137,7 +153,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/tags/ml/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/tags/ml/</loc>
-      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -155,7 +171,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/project/</loc>
-      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -202,7 +218,42 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/tags/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/tags/</loc>
-      <lastmod>2019-06-01T16:19:46-07:00</lastmod>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/tianyi-ma/</loc>
+      <lastmod>2019-03-22T16:19:46-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/weijia-yuan/</loc>
+      <lastmod>2018-12-01T16:12:40-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/xuan-hu/</loc>
+      <lastmod>2019-06-15T16:19:46-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/xufan-wang/</loc>
+      <lastmod>2018-12-01T16:12:40-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/zixiang-liu/</loc>
+      <lastmod>2019-03-22T16:19:46-07:00</lastmod>
       <priority>0</priority>
     </url>
   

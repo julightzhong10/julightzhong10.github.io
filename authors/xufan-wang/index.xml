@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xufan Wang* on Jiachen Zhong @ UCLA CS</title>
+    <link>https://julightzhong10.github.io/authors/xufan-wang/</link>
+    <description>Recent content in Xufan Wang* on Jiachen Zhong @ UCLA CS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
+    <lastBuildDate>Sat, 01 Dec 2018 16:12:40 -0700</lastBuildDate>
+    
+	<atom:link href="https://julightzhong10.github.io/authors/xufan-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Probalistic Database System</title>
+      <link>https://julightzhong10.github.io/project/probalistic_database/</link>
+      <pubDate>Sat, 01 Dec 2018 16:12:40 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/project/probalistic_database/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
