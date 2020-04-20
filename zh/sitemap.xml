@@ -3,12 +3,6 @@
   
     <url>
     
-      <loc>https://julightzhong10.github.io/zh/publication/my-publication/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/project/paper_asy_relation/" hreflang="zh"/>
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/project/paper_asy_relation/" hreflang="en"/>
     
@@ -57,17 +51,20 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/author/admin/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/author/admin/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/" hreflang="en"/>
     
-      <loc>https://julightzhong10.github.io/zh/author/admin/</loc>
+      <loc>https://julightzhong10.github.io/zh/</loc>
+      <lastmod>2019-03-22T16:19:46-07:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://julightzhong10.github.io/zh/publication_types/1/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
-      <priority>0</priority>
+      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/author/admin/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/author/admin/" hreflang="en"/>
+    
+      <loc>https://julightzhong10.github.io/zh/author/admin/</loc>
     </url>
   
     <url>
@@ -94,33 +91,6 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/categories/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/authors/giovanni-pau/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/authors/giovanni-pau/" hreflang="en"/>
-    
-      <loc>https://julightzhong10.github.io/zh/authors/giovanni-pau/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/authors/gustavo-marfia/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/authors/gustavo-marfia/" hreflang="en"/>
-    
-      <loc>https://julightzhong10.github.io/zh/authors/gustavo-marfia/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://julightzhong10.github.io/zh/authors/jiachen-zhong/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -165,7 +135,6 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/publication_types/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/publication_types/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -175,7 +144,6 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/publication/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/publication/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
     </url>
   
     <url>
@@ -184,16 +152,6 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/talk/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/talk/</loc>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/authors/rita-tse/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/authors/rita-tse/" hreflang="en"/>
-    
-      <loc>https://julightzhong10.github.io/zh/authors/rita-tse/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -212,16 +170,6 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/authors/admin/" hreflang="en"/>
     
       <loc>https://julightzhong10.github.io/zh/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="https://julightzhong10.github.io/" hreflang="en"/>
-    
-      <loc>https://julightzhong10.github.io/zh/</loc>
-      <lastmod>2019-03-22T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   

@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>钟佳琛 @ UCLA CS on 钟佳琛 @ UCLA CS</title>
+    <title></title>
     <link>https://julightzhong10.github.io/zh/</link>
-    <description>Recent content in 钟佳琛 @ UCLA CS on 钟佳琛 @ UCLA CS</description>
+    <description>Recent content on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>zh</language>
-    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
-    <lastBuildDate>Fri, 22 Mar 2019 17:37:16 -0700</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
+    <lastBuildDate>Fri, 22 Mar 2019 16:19:46 -0700</lastBuildDate>
     <atom:link href="/zh/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Fashion Popularity Analysis based on Online Social Network via Deep Learning	</title>
-      <link>https://julightzhong10.github.io/zh/publication/my-publication/</link>
-      <pubDate>Fri, 22 Mar 2019 17:37:16 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/zh/publication/my-publication/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Paper Classification on Citation Networks by Using Asymmetry Relation Design</title>

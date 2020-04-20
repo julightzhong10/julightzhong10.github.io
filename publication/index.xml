@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jiachen Zhong @ UCLA CS</title>
+    <title>Publications on Jiachen Zhong</title>
     <link>https://julightzhong10.github.io/publication/</link>
-    <description>Recent content in Publications on Jiachen Zhong @ UCLA CS</description>
+    <description>Recent content in Publications on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
-    <lastBuildDate>Sun, 26 May 2019 17:37:16 -0700</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
+    <lastBuildDate>Fri, 20 Mar 2020 17:37:16 -0700</lastBuildDate>
     
 	<atom:link href="https://julightzhong10.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Towards Fast and Stable GAN via Free Adversarial Training</title>
+      <link>https://julightzhong10.github.io/publication/msthesis_zhong2019/</link>
+      <pubDate>Fri, 20 Mar 2020 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/publication/msthesis_zhong2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fashion Popularity Analysis based on Online Social Network via Deep Learning</title>
       <link>https://julightzhong10.github.io/publication/icdip2019_zhong2019fashion/</link>
-      <pubDate>Sun, 26 May 2019 17:37:16 -0700</pubDate>
+      <pubDate>Wed, 14 Aug 2019 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/publication/icdip2019_zhong2019fashion/</guid>
       <description></description>

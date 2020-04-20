@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ML on Jiachen Zhong @ UCLA CS</title>
+    <title>ML on Jiachen Zhong</title>
     <link>https://julightzhong10.github.io/tags/ml/</link>
-    <description>Recent content in ML on Jiachen Zhong @ UCLA CS</description>
+    <description>Recent content in ML on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
     <lastBuildDate>Sat, 15 Jun 2019 16:19:46 -0700</lastBuildDate>
     
 	<atom:link href="https://julightzhong10.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />

@@ -1,51 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on 钟佳琛 @ UCLA CS</title>
+    <title>Authors on </title>
     <link>https://julightzhong10.github.io/zh/authors/</link>
-    <description>Recent content in Authors on 钟佳琛 @ UCLA CS</description>
+    <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
     
 	<atom:link href="https://julightzhong10.github.io/zh/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Giovanni Pau</title>
-      <link>https://julightzhong10.github.io/zh/authors/giovanni-pau/</link>
-      <pubDate>Fri, 22 Mar 2019 17:37:16 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/zh/authors/giovanni-pau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gustavo Marfia</title>
-      <link>https://julightzhong10.github.io/zh/authors/gustavo-marfia/</link>
-      <pubDate>Fri, 22 Mar 2019 17:37:16 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/zh/authors/gustavo-marfia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiachen Zhong</title>
-      <link>https://julightzhong10.github.io/zh/authors/jiachen-zhong/</link>
-      <pubDate>Fri, 22 Mar 2019 17:37:16 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/zh/authors/jiachen-zhong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rita Tse</title>
-      <link>https://julightzhong10.github.io/zh/authors/rita-tse/</link>
-      <pubDate>Fri, 22 Mar 2019 17:37:16 -0700</pubDate>
-      
-      <guid>https://julightzhong10.github.io/zh/authors/rita-tse/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>admin</title>

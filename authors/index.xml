@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Jiachen Zhong @ UCLA CS</title>
+    <title>Authors on Jiachen Zhong</title>
     <link>https://julightzhong10.github.io/authors/</link>
-    <description>Recent content in Authors on Jiachen Zhong @ UCLA CS</description>
+    <description>Recent content in Authors on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
     <lastBuildDate>Sat, 15 Jun 2019 16:19:46 -0700</lastBuildDate>
     
 	<atom:link href="https://julightzhong10.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +24,7 @@
     <item>
       <title>&lt;b&gt;Jiachen Zhong&lt;/b&gt;</title>
       <link>https://julightzhong10.github.io/authors/bjiachen-zhong/b/</link>
-      <pubDate>Sun, 26 May 2019 17:37:16 -0700</pubDate>
+      <pubDate>Fri, 20 Mar 2020 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/authors/bjiachen-zhong/b/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Giovanni Pau</title>
       <link>https://julightzhong10.github.io/authors/giovanni-pau/</link>
-      <pubDate>Sun, 26 May 2019 17:37:16 -0700</pubDate>
+      <pubDate>Wed, 14 Aug 2019 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/authors/giovanni-pau/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Gustavo Marfia</title>
       <link>https://julightzhong10.github.io/authors/gustavo-marfia/</link>
-      <pubDate>Sun, 26 May 2019 17:37:16 -0700</pubDate>
+      <pubDate>Wed, 14 Aug 2019 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/authors/gustavo-marfia/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Rita Tse</title>
       <link>https://julightzhong10.github.io/authors/rita-tse/</link>
-      <pubDate>Sun, 26 May 2019 17:37:16 -0700</pubDate>
+      <pubDate>Wed, 14 Aug 2019 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/authors/rita-tse/</guid>
       <description></description>

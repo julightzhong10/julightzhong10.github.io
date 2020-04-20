@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on 钟佳琛 @ UCLA CS</title>
+    <title>admin on </title>
     <link>https://julightzhong10.github.io/zh/authors/admin/</link>
-    <description>Recent content in admin on 钟佳琛 @ UCLA CS</description>
+    <description>Recent content in admin on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Copyright &amp;copy; 2019 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
     
 	<atom:link href="https://julightzhong10.github.io/zh/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://julightzhong10.github.io/zh/author/admin/</guid>
-      <description>我目前是加州大学洛杉矶分校的一名计算机科学硕士学生. 在开始我的研究生学习之前, 我从澳门理工学院收获了我的电脑学学士学位. 在机器学习方面我有着</description>
+      <description>这个网站仅仅用于展示一些我的工作，并且由于我大部分的工作是用英文写作，所以暂不提供对等于英文版的中文页面了。 如果对我的作品感兴趣，也欢迎用中</description>
     </item>
     
   </channel>
