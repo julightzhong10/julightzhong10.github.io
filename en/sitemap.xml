@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://julightzhong10.github.io/publication/fastgan_zhong2020improving/</loc>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://julightzhong10.github.io/publication/msthesis_zhong2019/</loc>
       <lastmod>2020-03-20T17:37:16-07:00</lastmod>
     </url>
@@ -31,7 +37,7 @@
     <url>
     
       <loc>https://julightzhong10.github.io/project/gan_da/</loc>
-      <lastmod>2019-03-15T00:00:00-07:00</lastmod>
+      <lastmod>2019-03-15T00:00:00+08:00</lastmod>
     </url>
   
     <url>
@@ -46,7 +52,7 @@
     <url>
     
       <loc>https://julightzhong10.github.io/project/mpifyp/</loc>
-      <lastmod>2018-04-24T00:00:00-07:00</lastmod>
+      <lastmod>2018-04-24T00:00:00+08:00</lastmod>
     </url>
   
     <url>
@@ -67,7 +73,7 @@
     <url>
     
       <loc>https://julightzhong10.github.io/publication_types/3/</loc>
-      <lastmod>2020-03-20T17:37:16-07:00</lastmod>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -81,7 +87,7 @@
     <url>
     
       <loc>https://julightzhong10.github.io/authors/bjiachen-zhong/b/</loc>
-      <lastmod>2020-03-20T17:37:16-07:00</lastmod>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -122,6 +128,13 @@
   
     <url>
     
+      <loc>https://julightzhong10.github.io/authors/cho-jui-hsieh/</loc>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://julightzhong10.github.io/authors/enbang-zhang/</loc>
       <lastmod>2019-03-22T16:19:46-07:00</lastmod>
       <priority>0</priority>
@@ -147,7 +160,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/</loc>
-      <lastmod>2020-03-20T17:37:16-07:00</lastmod>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -195,7 +208,7 @@
       <xhtml:link rel="alternate" href="https://julightzhong10.github.io/zh/publication/" hreflang="zh"/>
     
       <loc>https://julightzhong10.github.io/publication/</loc>
-      <lastmod>2020-03-20T17:37:16-07:00</lastmod>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
     </url>
   
     <url>
@@ -241,6 +254,13 @@
     
       <loc>https://julightzhong10.github.io/authors/xuan-hu/</loc>
       <lastmod>2019-06-15T16:19:46-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://julightzhong10.github.io/authors/xuanqing-liu/</loc>
+      <lastmod>2020-08-07T17:37:16-07:00</lastmod>
       <priority>0</priority>
     </url>
   
