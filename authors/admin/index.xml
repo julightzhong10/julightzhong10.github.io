@@ -6,7 +6,7 @@
     <description>Recent content in admin on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2019 - 2020 Jiachen Zhong</copyright>
     
 	<atom:link href="https://julightzhong10.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://julightzhong10.github.io/author/admin/</guid>
-      <description>I am currently MS student in the Computer Science at UCLA. Before moving to my graduate study, I receivced my BS in Computing from Macao Polytechnic Institute. I am broadly interested in many topics related to Machine Learning. My recent works are mostly related to GAN and Generative Models.
-Research Interests: Machine Learning, GAN, Generative Models</description>
+      <description>I am an Algorithm Engineer at the Artificial Intelligence Lab of SAIC Motor. Before moving to industry career, I receivced my Master degree in Computer Science from UCLA and Bachelor degree in Computing from Macao Polytechnic Institute.
+I am interested in many areas of machine learning, perception, and intelligence methods. My recent works lie in unsupervised representation learning, object detection, generative modeling, attention mechanism and their applications in production-level automated vehicles including ADAS and DMS.</description>
     </item>
     
   </channel>

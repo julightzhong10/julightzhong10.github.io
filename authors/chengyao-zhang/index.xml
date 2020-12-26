@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chengyao Zhang* on Jiachen Zhong</title>
+    <title>Chengyao Zhang on Jiachen Zhong</title>
     <link>https://julightzhong10.github.io/authors/chengyao-zhang/</link>
-    <description>Recent content in Chengyao Zhang* on Jiachen Zhong</description>
+    <description>Recent content in Chengyao Zhang on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2019 - 2020 Jiachen Zhong</copyright>
     <lastBuildDate>Fri, 22 Mar 2019 16:19:46 -0700</lastBuildDate>
     
 	<atom:link href="https://julightzhong10.github.io/authors/chengyao-zhang/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,19 @@
     
     <item>
       <title>Paper Classification on Citation Networks by Using Asymmetry Relation Design</title>
-      <link>https://julightzhong10.github.io/project/paper_asy_relation/</link>
+      <link>https://julightzhong10.github.io/paperworks/paper_asy_relation/</link>
       <pubDate>Fri, 22 Mar 2019 16:19:46 -0700</pubDate>
       
-      <guid>https://julightzhong10.github.io/project/paper_asy_relation/</guid>
+      <guid>https://julightzhong10.github.io/paperworks/paper_asy_relation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Classification on Citation Networks by Using Asymmetry Relation Design</title>
+      <link>https://julightzhong10.github.io/publication/paper_asy_relation/</link>
+      <pubDate>Fri, 22 Mar 2019 16:19:46 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/publication/paper_asy_relation/</guid>
       <description></description>
     </item>
     

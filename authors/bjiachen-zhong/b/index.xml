@@ -6,7 +6,7 @@
     <description>Recent content in &lt;b&gt;Jiachen Zhong&lt;/b&gt; on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2019 - 2020 Jiachen Zhong</copyright>
     <lastBuildDate>Fri, 07 Aug 2020 17:37:16 -0700</lastBuildDate>
     
 	<atom:link href="https://julightzhong10.github.io/authors/bjiachen-zhong/b/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +14,28 @@
     
     <item>
       <title>Improving the Speed and Quality of GAN by Adversarial Training</title>
+      <link>https://julightzhong10.github.io/paperworks/fastgan_zhong2020improving/</link>
+      <pubDate>Fri, 07 Aug 2020 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/paperworks/fastgan_zhong2020improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Speed and Quality of GAN by Adversarial Training</title>
       <link>https://julightzhong10.github.io/publication/fastgan_zhong2020improving/</link>
       <pubDate>Fri, 07 Aug 2020 17:37:16 -0700</pubDate>
       
       <guid>https://julightzhong10.github.io/publication/fastgan_zhong2020improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Fast and Stable GAN via Free Adversarial Training</title>
+      <link>https://julightzhong10.github.io/paperworks/msthesis_zhong2019/</link>
+      <pubDate>Fri, 20 Mar 2020 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/paperworks/msthesis_zhong2019/</guid>
       <description></description>
     </item>
     
@@ -32,6 +50,15 @@
     
     <item>
       <title>Fashion Popularity Analysis based on Online Social Network via Deep Learning</title>
+      <link>https://julightzhong10.github.io/paperworks/icdip2019_zhong2019fashion/</link>
+      <pubDate>Wed, 14 Aug 2019 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/paperworks/icdip2019_zhong2019fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion Popularity Analysis based on Online Social Network via Deep Learning</title>
       <link>https://julightzhong10.github.io/publication/icdip2019_zhong2019fashion/</link>
       <pubDate>Wed, 14 Aug 2019 17:37:16 -0700</pubDate>
       
@@ -40,11 +67,56 @@
     </item>
     
     <item>
-      <title>BS Project&amp;Thesis: Analyzing Fashion Trends using Machine Learning</title>
-      <link>https://julightzhong10.github.io/project/mpifyp/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0800</pubDate>
+      <title>Paper Classification on Citation Networks by Using Asymmetry Relation Design</title>
+      <link>https://julightzhong10.github.io/paperworks/paper_asy_relation/</link>
+      <pubDate>Fri, 22 Mar 2019 16:19:46 -0700</pubDate>
       
-      <guid>https://julightzhong10.github.io/project/mpifyp/</guid>
+      <guid>https://julightzhong10.github.io/paperworks/paper_asy_relation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Classification on Citation Networks by Using Asymmetry Relation Design</title>
+      <link>https://julightzhong10.github.io/publication/paper_asy_relation/</link>
+      <pubDate>Fri, 22 Mar 2019 16:19:46 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/publication/paper_asy_relation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Database System</title>
+      <link>https://julightzhong10.github.io/paperworks/probalistic_database/</link>
+      <pubDate>Sat, 01 Dec 2018 16:12:40 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/paperworks/probalistic_database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Database System</title>
+      <link>https://julightzhong10.github.io/publication/probalistic_database/</link>
+      <pubDate>Sat, 01 Dec 2018 16:12:40 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/publication/probalistic_database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Fashion Trends using Machine Learning</title>
+      <link>https://julightzhong10.github.io/paperworks/bsthesis_zhong2018/</link>
+      <pubDate>Tue, 24 Apr 2018 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/paperworks/bsthesis_zhong2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Fashion Trends using Machine Learning</title>
+      <link>https://julightzhong10.github.io/publication/bsthesis_zhong2018/</link>
+      <pubDate>Tue, 24 Apr 2018 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/publication/bsthesis_zhong2018/</guid>
       <description></description>
     </item>
     

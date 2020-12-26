@@ -6,11 +6,20 @@
     <description>Recent content in Cho-Jui Hsieh on Jiachen Zhong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Jiachen Zhong</copyright>
+    <copyright>Copyright &amp;copy; 2019 - 2020 Jiachen Zhong</copyright>
     <lastBuildDate>Fri, 07 Aug 2020 17:37:16 -0700</lastBuildDate>
     
 	<atom:link href="https://julightzhong10.github.io/authors/cho-jui-hsieh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving the Speed and Quality of GAN by Adversarial Training</title>
+      <link>https://julightzhong10.github.io/paperworks/fastgan_zhong2020improving/</link>
+      <pubDate>Fri, 07 Aug 2020 17:37:16 -0700</pubDate>
+      
+      <guid>https://julightzhong10.github.io/paperworks/fastgan_zhong2020improving/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving the Speed and Quality of GAN by Adversarial Training</title>
