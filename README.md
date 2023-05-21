@@ -1,0 +1,1 @@
+how to complie: bundle exec jekyll serve
